@@ -51,6 +51,10 @@ Trends in employment:
     They have made it easier to spam job applications.
     So getting a job without a network connection is hard.
 
+    <img src="img/ai-resume-meme.jpg" width=400px />
+
+    <img src="img/job-search.png" width=600px />
+
 Salaries:
 
 1. Still high (compared to other professions)

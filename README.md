@@ -22,7 +22,7 @@
 
 ## Biography
 
-I grew up in San Clemente (1 hour south of Claremont).
+I grew up in San Clemente (beach city 1 hour south of Claremont).
 
 <img src=img/san-clemente.jpg width=600px />
 
@@ -31,6 +31,10 @@ I spent 7 years in the Navy:
 - college at US Naval Academy
 
     <img src=img/usna.jpg width=600px />
+
+    rowing and fencing teams
+
+    <img src=img/rowing.jpg width=300px /><img src=img/fencing.jpg width=300px />
 
 - worked on nuclear submarines
 
@@ -48,9 +52,11 @@ I spent 7 years in the Navy:
 
     My webpage: <https://izbicki.me/blog/my-co-discharge.html>
 
-Worked in DPRK (i.e. North Korea) at the Pyongyang University of Science and Technology to help improve US-DPRK relations.
+Taught in DPRK (i.e. North Korea) at the Pyongyang University of Science and Technology to help improve US-DPRK relations.
 
 <img src=img/ width=600px />
+
+- more pictures/details at <https://izbicki.me/pust/> (username: `guest`, password: `trip-to-pust`)
 
 At Claremont McKenna since 2018.
 

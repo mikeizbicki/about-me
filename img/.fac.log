@@ -1,0 +1,117 @@
+[36m[DEBUG] llm.image_async("output.png")[0m
+[36m[DEBUG] fal_client.submit_async() params:[0m
+[36m[DEBUG]   model: fal-ai/[0m
+[36m[DEBUG]   params:[0m
+[36m[DEBUG]     num_images: 1[0m
+[36m[DEBUG]     aspect_ratio: '16:9'[0m
+[36m[DEBUG]     image_size:[0m
+[36m[DEBUG]       width: 1024[0m
+[36m[DEBUG]       height: 768[0m
+[36m[DEBUG]     image_urls:[0m
+[36m[DEBUG]     - https://v3b.fal.media/files/b/0aa82e06/KeZnGyhGgel6U7d0iPVN1_QCL.png[0m
+[36m[DEBUG]     quality: low[0m
+[36m[DEBUG]     prompt: remove the arrow and text[0m
+[36m[DEBUG]     model: fal-ai/[0m
+[36m[DEBUG]     office.png: ''[0m
+[36m[DEBUG]     reference_images:[0m
+[36m[DEBUG]     - QCL.png[0m
+[31m[ERROR] FalClientHTTPError: [0m
+[31m[ERROR] fal_client.submit_async() parameters:[0m
+[31m[ERROR]   model: fal-ai/[0m
+[31m[ERROR]   params:[0m
+[31m[ERROR]     num_images: 1[0m
+[31m[ERROR]     aspect_ratio: '16:9'[0m
+[31m[ERROR]     image_size:[0m
+[31m[ERROR]       width: 1024[0m
+[31m[ERROR]       height: 768[0m
+[31m[ERROR]     image_urls:[0m
+[31m[ERROR]     - https://v3b.fal.media/files/b/0aa82e06/KeZnGyhGgel6U7d0iPVN1_QCL.png[0m
+[31m[ERROR]     quality: low[0m
+[31m[ERROR]     prompt: remove the arrow and text[0m
+[31m[ERROR]     model: fal-ai/[0m
+[31m[ERROR]     office.png: ''[0m
+[31m[ERROR]     reference_images:[0m
+[31m[ERROR]     - QCL.png[0m
+[36m[DEBUG] llm.image_async("office.png")[0m
+[36m[DEBUG] fal_client.submit_async() params:[0m
+[36m[DEBUG]   model: fal-ai/[0m
+[36m[DEBUG]   params:[0m
+[36m[DEBUG]     num_images: 1[0m
+[36m[DEBUG]     aspect_ratio: '16:9'[0m
+[36m[DEBUG]     image_size:[0m
+[36m[DEBUG]       width: 1024[0m
+[36m[DEBUG]       height: 768[0m
+[36m[DEBUG]     image_urls:[0m
+[36m[DEBUG]     - https://v3b.fal.media/files/b/0aa82e08/25VxpFumKwi5eborQcGa-_QCL.png[0m
+[36m[DEBUG]     quality: low[0m
+[36m[DEBUG]     prompt: remove the arrow and text[0m
+[36m[DEBUG]     model: fal-ai/[0m
+[36m[DEBUG]     reference_images:[0m
+[36m[DEBUG]     - QCL.png[0m
+[31m[ERROR] FalClientHTTPError: [0m
+[31m[ERROR] fal_client.submit_async() parameters:[0m
+[31m[ERROR]   model: fal-ai/[0m
+[31m[ERROR]   params:[0m
+[31m[ERROR]     num_images: 1[0m
+[31m[ERROR]     aspect_ratio: '16:9'[0m
+[31m[ERROR]     image_size:[0m
+[31m[ERROR]       width: 1024[0m
+[31m[ERROR]       height: 768[0m
+[31m[ERROR]     image_urls:[0m
+[31m[ERROR]     - https://v3b.fal.media/files/b/0aa82e08/25VxpFumKwi5eborQcGa-_QCL.png[0m
+[31m[ERROR]     quality: low[0m
+[31m[ERROR]     prompt: remove the arrow and text[0m
+[31m[ERROR]     model: fal-ai/[0m
+[31m[ERROR]     reference_images:[0m
+[31m[ERROR]     - QCL.png[0m
+[36m[DEBUG] llm.image_async("office.png")[0m
+[36m[DEBUG] fal_client.submit_async() params:[0m
+[36m[DEBUG]   model: fal-ai/[0m
+[36m[DEBUG]   params:[0m
+[36m[DEBUG]     num_images: 1[0m
+[36m[DEBUG]     aspect_ratio: '16:9'[0m
+[36m[DEBUG]     image_size:[0m
+[36m[DEBUG]       width: 1024[0m
+[36m[DEBUG]       height: 768[0m
+[36m[DEBUG]     image_urls:[0m
+[36m[DEBUG]     - https://v3b.fal.media/files/b/0aa82e0e/OAg71JAkh4QnK7f80zuD8_QCL.png[0m
+[36m[DEBUG]     quality: low[0m
+[36m[DEBUG]     prompt: remove the arrow and text[0m
+[36m[DEBUG]     model: fal-ai/[0m
+[36m[DEBUG]     reference_images:[0m
+[36m[DEBUG]     - QCL.png[0m
+[31m[ERROR] FalClientHTTPError: [0m
+[31m[ERROR] fal_client.submit_async() parameters:[0m
+[31m[ERROR]   model: fal-ai/[0m
+[31m[ERROR]   params:[0m
+[31m[ERROR]     num_images: 1[0m
+[31m[ERROR]     aspect_ratio: '16:9'[0m
+[31m[ERROR]     image_size:[0m
+[31m[ERROR]       width: 1024[0m
+[31m[ERROR]       height: 768[0m
+[31m[ERROR]     image_urls:[0m
+[31m[ERROR]     - https://v3b.fal.media/files/b/0aa82e0e/OAg71JAkh4QnK7f80zuD8_QCL.png[0m
+[31m[ERROR]     quality: low[0m
+[31m[ERROR]     prompt: remove the arrow and text[0m
+[31m[ERROR]     model: fal-ai/[0m
+[31m[ERROR]     reference_images:[0m
+[31m[ERROR]     - QCL.png[0m
+[36m[DEBUG] llm.image_async("office.png")[0m
+[36m[DEBUG] llm.image_async("office.png")[0m
+[36m[DEBUG] fal_client.submit_async() params:[0m
+[36m[DEBUG]   model: fal-ai/nano-banana-2/edit[0m
+[36m[DEBUG]   params:[0m
+[36m[DEBUG]     num_images: 1[0m
+[36m[DEBUG]     aspect_ratio: '16:9'[0m
+[36m[DEBUG]     image_size:[0m
+[36m[DEBUG]       width: 1024[0m
+[36m[DEBUG]       height: 768[0m
+[36m[DEBUG]     image_urls:[0m
+[36m[DEBUG]     - https://v3b.fal.media/files/b/0aa82e12/U9GXAveoCzu3w1rmuNkpz_QCL.png[0m
+[36m[DEBUG]     quality: low[0m
+[36m[DEBUG]     prompt: remove the arrow and text[0m
+[36m[DEBUG]     model: fal-ai/nano-banana-2/edit[0m
+[36m[DEBUG]     reference_images:[0m
+[36m[DEBUG]     - QCL.png[0m
+request_cost: $0.0800  total_cost: $0.0800
+total_cost: $0.0800

@@ -38,13 +38,13 @@ I spent 7 years in the Navy:
 
     <img src=img/rowing.jpg width=300px /><img src=img/fencing.jpg width=300px />
 
-- worked on nuclear submarines
-
-    <img src=img/s5w-maneuvering.jpg width=600px />
-
 - worked at National Security Agency (NSA)
 
     <img src=img/nsa.jpg width=600px />
+
+- worked on nuclear submarines
+
+    <img src=img/s5w-maneuvering.jpg width=600px />
 
 - left navy as conscientious objector
 

@@ -2,9 +2,11 @@
 
 **Name:** Mike Izbicki (call me Mike---[computer science culture is very informal](https://www.catb.org/jargon/html/introduction.html))
 
+<!--
 **(Out of date) Picture:**
 
 <img src=img/me.jpg width=400px />
+-->
 
 **Office:** Adams 216
 
@@ -15,6 +17,8 @@
 - See [Issue #1]()
 
 - Students should press the "watch" button on this repo to get email announcements.
+
+    <img src=img/watch.jpg width=600px />
 
 ## Biography
 

@@ -18,7 +18,7 @@
 
 - Students should press the "watch" button on this repo to get email announcements.
 
-    <img src=img/watch.jpg width=600px />
+    <img src=img/watch.png width=600px />
 
 ## Biography
 

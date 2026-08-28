@@ -2,6 +2,8 @@
 
 **Name:** Mike Izbicki (call me Mike---[computer science culture is very informal](https://www.catb.org/jargon/html/introduction.html))
 
+**Research:** Machine Learning
+
 <!--
 **(Out of date) Picture:**
 
@@ -14,7 +16,7 @@
 
 **Office Hours:**
 
-- See [Issue #1]()
+- See [Issue #1](https://github.com/mikeizbicki/about-me/issues/1)
 
 - Students should press the "watch" button on this repo to get email announcements.
 
@@ -51,6 +53,8 @@ I spent 7 years in the Navy:
     NYTimes article: <https://www.nytimes.com/2011/02/23/nyregion/23objector.html>
 
     My webpage: <https://izbicki.me/blog/my-co-discharge.html>
+
+Phd/postdoc at UC Riverside.
 
 Taught in DPRK (i.e. North Korea) at the Pyongyang University of Science and Technology to help improve US-DPRK relations.
 

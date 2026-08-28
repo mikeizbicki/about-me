@@ -8,7 +8,7 @@
 
 **Office:** Adams 216
 
-<img src=img/office.png width=600px />
+<img src=img/office.jpg width=600px />
 
 **Office Hours:**
 

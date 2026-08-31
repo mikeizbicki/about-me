@@ -58,7 +58,7 @@ Phd/postdoc at UC Riverside.
 
 Taught in DPRK (i.e. North Korea) at the Pyongyang University of Science and Technology to help improve US-DPRK relations.
 
-<img src=img/ width=600px />
+<img src=img/pust-cs-marching2.jpg width=600px />
 
 - more pictures/details at <https://izbicki.me/pust/> (username: `guest`, password: `trip-to-pust`)
 
@@ -66,4 +66,4 @@ At Claremont McKenna since 2018.
 
 Married with 4 kids.
 
-<img src=img/ width=600px />
+<img src=img/family.jpeg width=600px />

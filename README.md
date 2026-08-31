@@ -69,3 +69,7 @@ At Claremont McKenna since 2018.
 Married with 4 kids.
 
 <img src=img/family.jpeg width=600px />
+
+I am the [CEO of HTMX](https://htmx.org/essays/lore/#htmx-ceo).
+
+- usage stats: <https://w3techs.com/technologies/details/js-htmx>

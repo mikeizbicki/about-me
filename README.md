@@ -56,7 +56,9 @@ I spent 7 years in the Navy:
 
 Phd/postdoc at UC Riverside.
 
-Taught in DPRK (i.e. North Korea) at the Pyongyang University of Science and Technology to help improve US-DPRK relations.
+<img src=img/ucr.jpg width=600px />
+
+Taught computer science in DPRK (i.e. North Korea).
 
 <img src=img/pust-cs-marching2.jpg width=600px />
 
